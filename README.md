@@ -1,11 +1,5 @@
-# cc's blog
+#  readme
 
-Live demo: https://shik1.github.io/
+this is the algorithm notes 
 
-cc use this
-
-
-
-## yes  this my pat record
-
-
+by cc
