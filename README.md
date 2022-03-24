@@ -1,5 +1,5 @@
 #  readme
 
-this is the algorithm notes 
+right for nbu cc now
 
 by cc
